@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="org.example.App2Test" time="0.002" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin"/>
+    <property name="java.vm.version" value="25.202-b08"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\NCRM\TPMaven"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\NCRM\TPMaven"/>
+    <property name="java.runtime.version" value="1.8.0_202-b08"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\admin\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Programs\apache-maven-3.6.1\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1256"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_202\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk1.8.0_202\bin;D:\Programs\apache-maven-3.6.1\bin;D:\Programs\cmder;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\Google\Chrome\Application;C:\Program Files\Tesseract-OCR;C:\Program Files\Sublime Text 3;C:\Program Files\MongoDB\Server\4.2\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\7-Zip;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\admin\AppData\Roaming\npm;C:\Users\admin\Downloads\test\project\test\Libext;C:\Program Files\WinMerge;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Heroku\bin;C:\Users\admin\CLionProjects\TestSmartApi;C:\Program Files\PuTTY\;C:\Program Files (x86)\NCR\WiseIP\bin;C:\Program Files (x86)\NCR\WiseIP\help;C:\Program Files (x86)\NCR\WiseIP\personalities\9820;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Mitek\Mitek Check Intelligence V2022.10LR1\Interface;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Resource Hacker;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;D:\ThalesFingerPrintDemo\LibFiles;C:\Program Files (x86)\GnuWin32\bin;E:\NCRM\webdrive\lib\wiseApi64;%LSAPI_HOME%;D:\Programs\cmder\bin;D:\Programs\cmder\vendor\bin;D:\Programs\cmder\vendor\conemu-maximus5\ConEmu\Scripts;D:\Programs\cmder\vendor\conemu-maximus5;D:\Programs\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;D:\Programs\apache-maven-3.6.1\apache-maven-3.6.1\bin;C:\Program Files\Subl;C:\Users\admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\WebStorm 2020.1\bin;C:\Program Files\JetBrains\CLion 2020.2.1\bin;C:\Program Files\JetBrains\JetBrains Rider 2020.1.3\bin;C:\Users\admin\.dotnet\tools;D:\Programs\Fiddler;C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\bin;."/>
+    <property name="maven.conf" value="D:\Programs\apache-maven-3.6.1\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="D:\Programs\apache-maven-3.6.1\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\admin"/>
+    <property name="user.timezone" value="Africa/Casablanca"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1256"/>
+    <property name="user.name" value="admin"/>
+    <property name="java.class.path" value="D:\Programs\apache-maven-3.6.1\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_202\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_202"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp720"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Programs\apache-maven-3.6.1\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp720"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="org.example.App2Test" name="shouldAnswerWithTrue" time="0.002"/>
+</testsuite>
