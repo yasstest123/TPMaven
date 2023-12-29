@@ -19,7 +19,7 @@
   <distributionManagement>
     <repository>
       <id>nexus-ncrm</id>
-      <url>http://192.168.112.130:8081/repository/maven-releases/</url>
+      <url>http://nexus.ncr-maroc.com:8081/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
   <dependencies>
